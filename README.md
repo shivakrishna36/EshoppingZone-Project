@@ -3,6 +3,7 @@
 #First create databases for all services before running.
 #Here we have used two types of databases MYSQL,MONGODB.
 
+
 #Database commands for MYSQL
 Create database Project_db          /*this database for profile-service*/
 Create database wallet_service      /*this database for wallet-service*/
